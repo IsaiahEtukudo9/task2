@@ -1,0 +1,102 @@
+.image {
+    background-image: url(./image/office\ background.jpg);
+    height: 50rem;
+    background-size: cover;
+}
+
+.bill {
+    padding-left: 2rem;
+    margin-left: 3rem;
+    color: white;
+    text-decoration: underline;
+}
+
+.line {
+    display: inline;
+}
+
+.call {
+    padding-left: 12%;
+    color: white;
+    display: inline;
+}
+
+h1 {
+    display: inline;
+}
+
+.number {
+    color: rgba(255, 166, 0, 0.845);
+    padding-left: 64rem;
+    margin: auto;
+    font-size: larger;
+    text-decoration-thickness:
+}
+
+.quality {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3.5rem;
+    font-family: 'Times New Roman';
+    color: white;
+}
+
+.pro {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%-50%);
+}
+
+.pro {
+    color: white;
+}
+
+.dis {
+    color: white;
+    position: absolute;
+    margin-top: 50%;
+    transform: translate(-50%-50%);
+    opacity: .4;
+    text-align: start;
+    padding-left: 38rem;
+}
+
+.work {
+    height: 21rem;
+    background-repeat: no-repeat;
+    display: flex;
+    width: 98%;
+    margin-right: -8rem;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.discuss {
+    height: 20rem;
+    width: 20rem;
+}
+
+.Emediong {
+    color: goldenrod;
+    font-size: .8rem;
+    margin-left: 16rem;
+    margin-top: 8.5rem;
+}
+
+.Emediong h1 {
+    color: black;
+    font-size: 2.0rem;
+    margin-top: .5rem;
+    text-align: left;
+}
+
+.Emediong p {
+    color: black;
+    margin: left -20rem;
+}
